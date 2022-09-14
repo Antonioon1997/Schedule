@@ -98,11 +98,10 @@
 		3A26FD6D28CE20DB005DA44C /* Schedule */ = {
 			isa = PBXGroup;
 			children = (
-				3A26FD7428CE20DB005DA44C /* Main.storyboard */,
-				3A26FD9F28CE2138005DA44C /* Main Schedule */,
 				3A26FD6E28CE20DB005DA44C /* AppDelegate.swift */,
 				3A26FD7028CE20DB005DA44C /* SceneDelegate.swift */,
-				3A26FD7228CE20DB005DA44C /* MainScheduleViewController.swift */,
+				3A26FD7428CE20DB005DA44C /* Main.storyboard */,
+				3A26FD9F28CE2138005DA44C /* Main Schedule */,
 				3A26FD7728CE20DB005DA44C /* Assets.xcassets */,
 				3A26FD7928CE20DB005DA44C /* LaunchScreen.storyboard */,
 				3A26FD7C28CE20DB005DA44C /* Info.plist */,
@@ -139,6 +138,7 @@
 		3A26FD9F28CE2138005DA44C /* Main Schedule */ = {
 			isa = PBXGroup;
 			children = (
+				3A26FD7228CE20DB005DA44C /* MainScheduleViewController.swift */,
 			);
 			path = "Main Schedule";
 			sourceTree = "<group>";
